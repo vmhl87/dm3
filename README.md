@@ -1,4 +1,4 @@
-# Source code backup of dm3, a 3d rigid-body physics engine I wrote in JavaScript.
+## Source code backup of dm3, a 3d rigid-body physics engine I wrote in JavaScript.
 
 The physics engine supports rigid constraints and servos, in addition to rudimentary "aerodynamic forces".
 
